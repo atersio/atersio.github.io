@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://atersio.github.io/sitemap.html.gz
+Sitemap: https://atersio.github.io/app/sitemap.html.gz
+Sitemap: https://atersio.github.io/assets/sitemap.html.gz
+Sitemap: https://atersio.github.io/css/sitemap.html.gz
+Sitemap: https://atersio.github.io/includes/sitemap.html.gz
+Sitemap: https://atersio.github.io/item/sitemap.html.gz
+Sitemap: https://atersio.github.io/src/sitemap.html.gz
